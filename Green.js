@@ -34,8 +34,4 @@
       container.textContent = 'ขออภัย ไม่สามารถโหลดไฟล์เสียงได้';
     });
 
-  } else {
-    console.error('Container element with id "video-container" not found.');
-  }
-
  </script>
