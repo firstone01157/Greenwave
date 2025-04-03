@@ -5,7 +5,6 @@
   videoElement.id = 'myVideo';
   videoElement.controls = true;
   videoElement.autoplay = true;
-  videoElement.muted = true;  // ช่วยให้ autoplay ทำงานได้ดีขึ้น
   videoElement.preload = 'auto';  
   videoElement.name = 'media';
   videoElement.style.width = '350px';
