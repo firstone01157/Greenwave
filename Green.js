@@ -38,5 +38,4 @@ if (container) {
 	console.error('Container element with id "video-container" not found.');
 }
 
-<
-/script>
+</script>
